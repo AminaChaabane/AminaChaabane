@@ -1,4 +1,4 @@
-<h2> Hi ! I am Amina CHAABANE 👋</h2>
+<h2> Hello ! I am Amina CHAABANE 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -21,8 +21,8 @@
   ![Material Design](https://img.shields.io/badge/-Material%20Design-333333?style=flat&logo=material-design)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
