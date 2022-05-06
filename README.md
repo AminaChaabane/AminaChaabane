@@ -40,10 +40,18 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AminaChaabane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AminaChaabane&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaChaabane&theme=dark&layout=compact" />
 </a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/amina-chaabane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:amina.chaabane34@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <!--
 **AminaChaabane/AminaChaabane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
