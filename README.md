@@ -30,6 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellijidea)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -38,6 +39,11 @@
   
 
 <br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AminaChaabane&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaChaabane&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **AminaChaabane/AminaChaabane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
