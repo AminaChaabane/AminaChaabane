@@ -49,8 +49,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amina-chaabane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:amina.chaabane34@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/amina-chaabane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amina%20Chaabane-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:amina.chaabane34@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-amina.chaabane34@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
