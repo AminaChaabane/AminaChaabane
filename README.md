@@ -17,6 +17,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![Material Design](https://img.shields.io/badge/-Material%20Design-333333?style=flat&logo=material-design)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
