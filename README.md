@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Software Engineering at ENSIAS (National School of Computer Science  and System Analysis).
+- 🎓 &nbsp; Studying Software Engineering at ENSIAS (National School of Computer Science  and System Analysis).
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 
 <h3> 🛠 &nbsp;Languages and Technologies</h3>
@@ -35,7 +35,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=008080)
   
 
 <br/>
