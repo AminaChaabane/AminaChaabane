@@ -1,5 +1,13 @@
 <h2> Hello ! I am Amina CHAABANE 👋</h2>
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=AminaChaabane&label=Profile%20views&color=0e75b6&style=flat"
+    alt="AminaChaabane" /> 
+  </p>
+ 
+ <br>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Software Engineering at ENSIAS (National School of Computer Science  and System Analysis).
