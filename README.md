@@ -19,6 +19,7 @@
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Material Design](https://img.shields.io/badge/-Material%20Design-333333?style=flat&logo=material-design)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
